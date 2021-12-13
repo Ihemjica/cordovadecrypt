@@ -28,6 +28,7 @@ public class DecryptResource extends CordovaPlugin {
     private static final String CRYPT_IV = "MCvyRMdSJW15wfBb";
     private static final String[] INCLUDE_FILES = new String[] { };
     private static final String[] EXCLUDE_FILES = new String[] { };
+    private static final String randy = "B4XxJMU0tRn+5vM+gKFaJ/s62zLKTip8SghHu2uhvxbl7a3pnvls+ctowmV5uVC3m7tVX92f8RMTJ+Lz6J9M29cX547CfaS8ZFiu08OJ5m99dracg37Z/1ZxMasTW+F0uyfSEeHr33WnuW0ZnwSSaOxdlhhMw0aSybqbRi2znEGZbq5rEuaT+9B5Obdg3PvDYsiw1mPcrXDZ76hWp23/yQ==";
 
     @Override
     public Uri remapUri(Uri uri) {
